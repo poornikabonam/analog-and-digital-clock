@@ -6,7 +6,7 @@ This project combines the creation of an Analog and Digital Clock using Java Swi
     * [Digital Clock](https://github.com/poornikabonam/analog-and-digital-clock#digital-clock)
     * [Analog Clock](https://github.com/poornikabonam/analog-and-digital-clock#analog-clock)
     * [Running the clock](https://github.com/poornikabonam/analog-and-digital-clock#running-the-clock)
-* [Acknowledgments](link)
+* [Acknowledgments](https://github.com/poornikabonam/analog-and-digital-clock/blob/main/README.md#acknowledgments)
 
 ## Prerequisites
 Ensure that you have a Java Development Kit (JDK) installed on your system.
