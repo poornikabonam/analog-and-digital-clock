@@ -1,11 +1,11 @@
 # analog-and-digital-clock
 This project combines the creation of an Analog and Digital Clock using Java Swing. The clock displays both analog and digital representations of the current time, offering a fun and interactive way to visualize time.
 # Table of contents
-* [Prerequisites]
-* [Usage]
-    * [Analog Clock]
-    * [Digital Clock]
-    * [Running the clock]
+* [Prerequisites](https://github.com/poornikabonam/analog-and-digital-clock#prerequisites)
+* [Usage](https://github.com/poornikabonam/analog-and-digital-clock#usage)
+    * [Digital Clock](https://github.com/poornikabonam/analog-and-digital-clock#digital-clock)
+    * [Analog Clock](https://github.com/poornikabonam/analog-and-digital-clock#analog-clock)
+    * [Running the clock](https://github.com/poornikabonam/analog-and-digital-clock#running-the-clock)
   
 
 # Prerequisites
@@ -20,6 +20,7 @@ The analog clock is drawn using Java's Graphics and Graphics2D classes.It featur
 
 ## Running the Clock
 The AnaDigi class initiates the clock, starting a thread for continuous updates.Both the analog and digital representations of the clock are displayed in a JFrame.
+
 ![image](https://github.com/poornikabonam/analog-and-digital-clock/assets/97566249/aae4153c-c6a5-4b58-9808-b71a4aabdfee)
 
 
